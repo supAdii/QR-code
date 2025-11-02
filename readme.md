@@ -15,7 +15,7 @@ Check out the live project here:
 
 ## 📸 Preview
 
-![QR Code Screenshot](./images/image-qr-code.png)
+![QR Code Screenshot](./design/desktop-design.jpg)
 
 ---
 
