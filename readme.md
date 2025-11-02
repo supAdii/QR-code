@@ -1,0 +1,1 @@
+This is a simple website containing a qr code which I created from Frontend Mentors
